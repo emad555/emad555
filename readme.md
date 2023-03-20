@@ -3,7 +3,9 @@
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true)]([https://github.com/anuraghazra/github-readme-stats](https://www.emad-alomari.com/))
  -->
-
+  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+  
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"> 
