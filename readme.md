@@ -1,5 +1,5 @@
 <div align="center">
-
+<h2>🏆 Emad Al Omari</h2></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical)
 
 </div>
