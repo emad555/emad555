@@ -1,6 +1,7 @@
-<!-- HTML -->
-<p align="center">
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical)
+<p align="center">
 </p>
 
    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://www.emad-alomari.com/))
