@@ -10,10 +10,11 @@
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 I'm currently working as a Software Developer in Dubai
-  - 🌱 I'm experienced in learning Machine Learning and Data Science
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
-  - 😄 Pronouns: He / Him
+  - 🌱 I'm experienced in learning Machine Learning and Data Science 
   - ⚡ Fun fact: My name is an anagram of "I Play Coding"
+
+
+
 
 
 #### 👨🏻‍💻 Languages and Tools <br />
