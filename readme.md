@@ -1,8 +1,7 @@
 
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
+
 
 
 
