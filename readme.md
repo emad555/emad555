@@ -5,11 +5,8 @@
  -->
   ### Hello World!  
   
-<img src="![image](https://user-images.githubusercontent.com/60844745/226433513-4e357439-a400-4f2f-b8df-3edd00c66043.png)
+<img src="![image](https://user-images.githubusercontent.com/60844745/226433662-42556dbc-bba4-43a0-8cf1-8e25f924fdde.png)
 " alt="side Image" align="right" width="200" height="auto" />
-<!-- <a href="![image](https://user-images.githubusercontent.com/60844745/226433486-22abbf50-6ff8-401a-9d90-01e9cdf89713.png)
-"> <img src="![image](https://user-images.githubusercontent.com/60844745/226433445-1be32b42-7b51-49e8-a8f9-0d6b556f614b.png)
-" alt="side Gif" align="right" width="150" height="auto"/> </a> -->
   
   - 🔭 I'm currently working as a Software Developer in Dubai
   - 🌱 I'm experienced in learning Machine Learning and Data Science 
