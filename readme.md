@@ -4,6 +4,12 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true)]([https://github.com/anuraghazra/github-readme-stats](https://www.emad-alomari.com/))
 
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true"> 
+<img width=800 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true">
+</a>
+
+
+
 <a href="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical">
 <img width=800 src="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical"/>
 </a>
