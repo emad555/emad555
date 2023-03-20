@@ -7,7 +7,7 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true"> 
-<img background-color: grey; width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true">
+<img background-color= grey; width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true">
 </a>
 
 
