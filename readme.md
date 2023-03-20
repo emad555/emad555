@@ -1,6 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical)
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true)]([https://github.com/anuraghazra/github-readme-stats](https://www.emad-alomari.com/))
 
 
 
@@ -11,9 +12,10 @@
 </a>
 
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true)]([https://github.com/anuraghazra/github-readme-stats](https://www.emad-alomari.com/))
 
 
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
