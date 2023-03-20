@@ -47,7 +47,7 @@
 </div>
    
 <a href="https://www.emad-alomari.com/"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://www.emad-alomari.com/">
+<a align="center" href="https://www.emad-alomari.com/">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
