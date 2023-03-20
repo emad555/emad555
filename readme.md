@@ -5,9 +5,8 @@
  -->
   ### Hello World!  
   
-<img src="![image](https://user-images.githubusercontent.com/60844745/226433662-42556dbc-bba4-43a0-8cf1-8e25f924fdde.png)
-" alt="side Image" align="right" width="200" height="auto" />
-  
+![alt text](http://https://github.com/emad555/emad555/blob/main/hacker.gif)
+
   - 🔭 I'm currently working as a Software Developer in Dubai
   - 🌱 I'm experienced in learning Machine Learning and Data Science 
   - ⚡ Fun fact: My name is an anagram of "I Play Coding"
