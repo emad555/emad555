@@ -7,13 +7,13 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true"> 
-<img width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true">
 </a>
 
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical">
-<img width=400 height=400 src="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical"/>
 </a>
 
 </div>
