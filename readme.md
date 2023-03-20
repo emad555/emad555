@@ -5,9 +5,9 @@
 </div>
 
 
-
+[
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://www.emad-alomari.com/))
-
+](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
 
 
 
