@@ -34,8 +34,8 @@
   
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"> 
-<img background-color= #cccccc width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"> 
+<img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark">
 </a>
 
 
