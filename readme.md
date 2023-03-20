@@ -5,14 +5,14 @@
  -->
   ### Hello World!  
   
-
-<img   padding-right= 150  width="200" height="auto" src="https://github.com/emad555/emad555/blob/main/hacker.gif" alt="Alt text" title="Optional title">
+<div>
+<img  width="200" height="auto" src="https://github.com/emad555/emad555/blob/main/hacker.gif" alt="Alt text" title="Optional title">
 
   - 🔭 I'm currently working as a Software Developer in Dubai
   - 🌱 I'm experienced in learning Machine Learning and Data Science 
   - ⚡ Fun fact: My name is an anagram of "I Play Coding"
 
-
+</div>
 
 
 
