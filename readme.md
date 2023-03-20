@@ -5,10 +5,7 @@
 </div>
 
 
-[
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://www.emad-alomari.com/))
-](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
-
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
 
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true)]([https://github.com/anuraghazra/github-readme-stats](https://www.emad-alomari.com/))
