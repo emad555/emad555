@@ -13,7 +13,7 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical">
-<img width=300 src="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical"/>
+<img width=314 src="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical"/>
 </a>
 
 </div>
