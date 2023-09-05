@@ -34,8 +34,8 @@
   
 
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true"> 
-<img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true&theme=dark">
+<a> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </a>
 
 
