@@ -40,12 +40,6 @@
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
-
-
-<a href="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical">
-<img width=335 src="https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical"/>
-</a>
-
 </div>
    
 <a href="https://www.emad-alomari.com/"><h2>🏆 Github Profile Trophy</h2></a>
