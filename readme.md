@@ -1,6 +1,6 @@
 # Emad AlOmari
 
-Software engineer in Dubai building web applications, computer vision tools, robotics, and embedded projects. I enjoy connecting cameras and sensors to software people can use.
+Senior AI engineer focused on computer vision, robotics, and edge AI. I build practical systems that connect intelligent software with cameras, sensors, and the physical world.
 
 ## Featured projects
 
